@@ -1,0 +1,8 @@
+1.import
+2.ajax
+3.fileupload
+4.imageCurd
+5.Toast
+6.sweet alert
+7.search using ahead
+8.infinite scroll
