@@ -11,7 +11,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>infinite</h1>
+    <h1>infinite load</h1>
     <section>
         <div class="row">
             <div class="col-md-12">
